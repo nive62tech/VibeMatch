@@ -32,7 +32,7 @@ VibeMatch/
 | Phase | Name | Covers | Status |
 |---|---|---|---|
 | 0 | Repo & Environment Setup | Repo init, folder structure, Android/Python/Ollama/Colab environment checks | Completed ✅ |
-| 1 | Data Design & Seed Dataset Pipeline | Schema design, raw venue collection, Ollama-based vibe tagging, seed dataset | Pending |
+| 1 | Data Design & Seed Dataset Pipeline | Schema design, raw venue collection, Ollama-based vibe tagging, seed dataset | Completed ✅ |
 | 2 | Matching Algorithm Prototype | Scoring functions, group aggregation, crowd/history logic, Colab testing | Pending |
 | 3 | Android App Skeleton & Local Database | Kotlin data classes, Room DB, DAOs, repository layer, seed data import | Pending |
 | 4 | Group & Preference Flow | Create group screen, preference setup screen | Pending |

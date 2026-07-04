@@ -1,0 +1,216 @@
+[
+  {
+    "id": "c'sons_restaurant,_chalakudy",
+    "name": "C'sons Restaurant, Chalakudy",
+    "category": "restaurant",
+    "description": "Spacious family restaurant with both indoor air-conditioned seating and regular dining space. Usually busy during lunch and dinner hours but comfortable for groups and family meals.",
+    "price_level": "medium",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "indian_coffee_house,_chalakudy",
+    "name": "Indian Coffee House, Chalakudy",
+    "category": "cafe",
+    "description": "Classic caf\u00e9 with simple seating and a calm atmosphere. Footfall is moderate throughout the day, making it suitable for casual conversations and quick meals.",
+    "price_level": "low",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "cafe_adda,_chalakudy",
+    "name": "Cafe Adda, Chalakudy",
+    "category": "cafe",
+    "description": "Modern caf\u00e9 with comfortable indoor seating, soft lighting and a relaxed ambience. Popular among students and young adults during evenings but quieter on weekday afternoons.",
+    "price_level": "medium",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "dream_world_water_park",
+    "name": "Dream World Water Park",
+    "category": "activity",
+    "description": "Large outdoor water park with pools and water rides for families and groups. Crowds increase on weekends and holidays, creating a lively and energetic environment.",
+    "price_level": "medium",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "silver_storm_amusement_park",
+    "name": "Silver Storm Amusement Park",
+    "category": "activity",
+    "description": "Popular amusement park with thrill rides, family attractions and food stalls. Usually crowded during weekends with an energetic atmosphere and plenty of outdoor activities.",
+    "price_level": "high",
+    "vibe_tags": [
+      "energetic",
+      "fun"
+    ],
+    "crowd_level": "high"
+  },
+  {
+    "id": "athirappilly_waterfalls",
+    "name": "Athirappilly Waterfalls",
+    "category": "nature",
+    "description": "Scenic waterfall surrounded by forest with walking paths and multiple viewpoints. Visitor numbers are moderate on weekdays but become heavy during weekends and tourist seasons.",
+    "price_level": "low",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "charpa_waterfalls",
+    "name": "Charpa Waterfalls",
+    "category": "nature",
+    "description": "Small roadside waterfall where visitors stop for short breaks and photos. Open outdoor setting with flowing water and varying crowd levels depending on the season.",
+    "price_level": "low",
+    "vibe_tags": [
+      "relaxing",
+      "nature"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "thumboormuzhi_dam_&_butterfly_garden",
+    "name": "Thumboormuzhi Dam & Butterfly Garden",
+    "category": "park",
+    "description": "Peaceful riverside park with gardens, walking paths and a hanging bridge. Ideal for relaxed walks, photography and family outings with moderate visitor traffic.",
+    "price_level": "low",
+    "vibe_tags": [
+      "relaxed",
+      "scenic",
+      "family-friendly"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "peringalkuthu_dam_viewpoint",
+    "name": "Peringalkuthu Dam Viewpoint",
+    "category": "nature",
+    "description": "Quiet viewpoint overlooking the reservoir and surrounding hills. Mostly visited by nature lovers looking for peaceful scenery and fresh air.",
+    "price_level": "low",
+    "vibe_tags": [
+      "peaceful",
+      "natural"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "kerala_kalamandalam_campus",
+    "name": "Kerala Kalamandalam Campus",
+    "category": "cultural",
+    "description": "Cultural campus with open green spaces and traditional architecture. Calm environment suitable for leisurely walks while experiencing Kerala's performing arts heritage.",
+    "price_level": "low",
+    "vibe_tags": [
+      "calm",
+      "leisure"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "hotel_aswathy,_chalakudy",
+    "name": "Hotel Aswathy, Chalakudy",
+    "category": "restaurant",
+    "description": "Popular local restaurant serving traditional Kerala meals in a spacious dining hall. Frequently busy during meal times with fast service and a family-friendly atmosphere.",
+    "price_level": "medium",
+    "vibe_tags": [
+      "traditional",
+      "family-friendly"
+    ],
+    "crowd_level": "high"
+  },
+  {
+    "id": "dosa_plaza,_chalakudy",
+    "name": "Dosa Plaza, Chalakudy",
+    "category": "restaurant",
+    "description": "Casual dining restaurant offering a wide variety of dosas with comfortable indoor seating. Moderate crowd throughout the day and suitable for small groups.",
+    "price_level": "medium",
+    "vibe_tags": [
+      "casual",
+      "family"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "cafe_coffee_day,_koratty",
+    "name": "Cafe Coffee Day, Koratty",
+    "category": "cafe",
+    "description": "Branded coffee shop with cushioned seating, air conditioning and free Wi-Fi. Usually attracts students, professionals and couples looking to spend time indoors.",
+    "price_level": "medium",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "koratty_muthy_church_grounds",
+    "name": "Koratty Muthy Church Grounds",
+    "category": "outdoor",
+    "description": "Spacious church campus with landscaped surroundings and open seating areas. Peaceful environment outside festival periods, suitable for quiet evening walks.",
+    "price_level": "free",
+    "vibe_tags": [
+      "serene",
+      "natural"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "chalakudy_river_walk",
+    "name": "Chalakudy River Walk",
+    "category": "walking trail",
+    "description": "Open riverside walking stretch with fresh air and scenic views. Generally quiet during mornings, while evenings attract walkers, joggers and families.",
+    "price_level": "free",
+    "vibe_tags": [
+      "relaxing",
+      "nature"
+    ],
+    "crowd_level": "low"
+  },
+  {
+    "id": "sobha_city_mall_food_court,_thrissur",
+    "name": "Sobha City Mall Food Court, Thrissur",
+    "category": "food court",
+    "description": "Indoor food court with multiple cuisine options and ample seating. High footfall during weekends, offering a lively environment for groups with different food preferences.",
+    "price_level": "medium",
+    "vibe_tags": [
+      "lively",
+      "social"
+    ],
+    "crowd_level": "high"
+  },
+  {
+    "id": "fun_tura_indoor_play_zone",
+    "name": "Fun Tura Indoor Play Zone",
+    "category": "activity",
+    "description": "Indoor entertainment venue featuring arcade games and family activities. Bright, energetic atmosphere with moderate to high crowd levels during evenings and holidays.",
+    "price_level": "medium",
+    "vibe_tags": [
+      "family-friendly",
+      "entertainment"
+    ],
+    "crowd_level": "moderate"
+  },
+  {
+    "id": "marine_world_aquarium,_chavakkad",
+    "name": "Marine World Aquarium, Chavakkad",
+    "category": "activity",
+    "description": "Large indoor aquarium with themed exhibits and walking paths. Visitor traffic is moderate on weekdays and higher during school vacations, making it suitable for families and children.",
+    "price_level": "medium",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "snehatheeram_beach",
+    "name": "Snehatheeram Beach",
+    "category": "beach",
+    "description": "Wide sandy beach with open seating areas, food stalls and sunset views. Calm during weekday mornings but becomes lively in the evenings and on weekends.",
+    "price_level": "low",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  },
+  {
+    "id": "puzhakkal_river_walk,_thrissur",
+    "name": "Puzhakkal River Walk, Thrissur",
+    "category": "walking trail",
+    "description": "Well-maintained riverside walkway with benches and landscaped surroundings. Popular among walkers and families during evenings while remaining peaceful early in the day.",
+    "price_level": "free",
+    "vibe_tags": [],
+    "crowd_level": "medium"
+  }
+]
